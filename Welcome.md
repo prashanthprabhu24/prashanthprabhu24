@@ -1,0 +1,5 @@
+- 👋 Hello, I’m Prashanth.
+- 👀 I’m an engineer!
+- 🌱 I’m currently persuing masters in computer science.
+- 💞️ I use github to play and learn.
+- 📫 prashanthprabhu1998@gmail.com

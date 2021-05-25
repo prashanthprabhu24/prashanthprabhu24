@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prashanthprabhu24 :innocent:
-- 👀 I’m interested in Football :soccer:
+- 👋 Hi, I’m @prashanthprabhu24:innocent:
+- 👀 I’m interested in Football:soccer: :' and Technology and Music:violin:
 - 🌱 I’m currently learning Quantum Computing:game_die:, Food Science:chocolate_bar: and Computer Graphics:tropical_fish:.
 - 💞️ I’m looking for collaboration on my special repository "Learn Python", to teach kids python.
 - 📫 How to reach me ? Mail:incoming_envelope: prashanthprabhu1998@gmail.com 

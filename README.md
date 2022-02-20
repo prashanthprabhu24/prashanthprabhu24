@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashanth:innocent:
 - :man_student: I graduated Information Science and Engineering, Batch of 2021:man_technologist:.
-- :blond_haired_man: I'm currently pursuing MBA 2022 - 2024 :man_office_worker:
+- :blond_haired_man: I'm currently Working as Software Engineer (AI) :man_office_worker:
 - 👀 I love Football:soccer: and Coding and Music:violin:
 - 🌱 I also learning Quantum Computing:game_die:, Food Science:chocolate_bar: and Computer Graphics:tropical_fish:.
 - 💞️ I’m looking for collaboration on my special repository "Learn Python", to teach kids python.
